@@ -5,3 +5,7 @@ function sayHello(name) {
 function sayGuest() {
   return "Hello";
 }
+
+function sayHi(name) {
+  return "Hai" + name;
+}
